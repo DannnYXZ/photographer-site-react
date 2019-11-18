@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/photographer-site-react/static/css/main.acda25dc.chunk.css",
+    "main.js": "/photographer-site-react/static/js/main.d8b6420f.chunk.js",
+    "main.js.map": "/photographer-site-react/static/js/main.d8b6420f.chunk.js.map",
+    "runtime~main.js": "/photographer-site-react/static/js/runtime~main.c82f0f1f.js",
+    "runtime~main.js.map": "/photographer-site-react/static/js/runtime~main.c82f0f1f.js.map",
+    "static/css/2.1e75334e.chunk.css": "/photographer-site-react/static/css/2.1e75334e.chunk.css",
+    "static/js/2.1da110d6.chunk.js": "/photographer-site-react/static/js/2.1da110d6.chunk.js",
+    "static/js/2.1da110d6.chunk.js.map": "/photographer-site-react/static/js/2.1da110d6.chunk.js.map",
+    "index.html": "/photographer-site-react/index.html",
+    "precache-manifest.ad8f39a21e2358dc106b4d6e27ffc9b7.js": "/photographer-site-react/precache-manifest.ad8f39a21e2358dc106b4d6e27ffc9b7.js",
+    "service-worker.js": "/photographer-site-react/service-worker.js",
+    "static/css/2.1e75334e.chunk.css.map": "/photographer-site-react/static/css/2.1e75334e.chunk.css.map",
+    "static/css/main.acda25dc.chunk.css.map": "/photographer-site-react/static/css/main.acda25dc.chunk.css.map",
+    "static/media/lightgallery.css": "/photographer-site-react/static/media/lg.ecff1170.eot",
+    "static/media/logo.png": "/photographer-site-react/static/media/logo.bf6a7a18.png"
+  }
+}
