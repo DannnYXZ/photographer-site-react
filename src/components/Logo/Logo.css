@@ -1,0 +1,17 @@
+.logo {
+    padding: 10px 30px;
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.logo-link {
+    display: block;
+    text-align: center;
+}
+
+.logo-image {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}

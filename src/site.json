@@ -1,0 +1,905 @@
+{
+  "theme": "theme-white",
+  "menu": [
+    {
+      "type": "page-price",
+      "name": "Price",
+      "sidebar": {
+        "src": "content/covers/price.jpg",
+        "width": 720,
+        "height": 900,
+        "avg": "rgb(70,47,34)"
+      },
+      "images": [
+        {
+          "src": "content/covers/price.jpg",
+          "width": 720,
+          "height": 900,
+          "avg": "rgb(70,47,34)"
+        },
+        {
+          "src": "content/covers/price.jpg",
+          "width": 720,
+          "height": 900,
+          "avg": "rgb(70,47,34)"
+        },
+        {
+          "src": "content/covers/price.jpg",
+          "width": 720,
+          "height": 900,
+          "avg": "rgb(70,47,34)"
+        },
+        {
+          "src": "content/covers/price.jpg",
+          "width": 720,
+          "height": 900,
+          "avg": "rgb(70,47,34)"
+        }
+      ],
+      "inMenu": true,
+      "link": "/price"
+    },
+    {
+      "type": "album-collection",
+      "name": "wedding",
+      "sidebar": {
+        "src": "content/covers/wedding.jpg",
+        "width": 1019,
+        "height": 1019,
+        "avg": "rgb(204,193,186)"
+      },
+      "albums": [
+        {
+          "type": "album",
+          "name": "крутая свадьба",
+          "thumbnail": {
+            "src": "content/wedding/крутая свадьба/img-12.jpg",
+            "width": 800,
+            "height": 1000,
+            "avg": "rgb(21,21,21)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/крутая свадьба/img-1.jpg",
+              "width": 240,
+              "height": 361,
+              "avg": "rgb(55,57,54)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-10.jpg",
+              "width": 667,
+              "height": 834,
+              "avg": "rgb(161,132,103)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-11.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(200,194,192)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-111.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(63,71,64)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-12.jpg",
+              "width": 800,
+              "height": 1000,
+              "avg": "rgb(21,21,21)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-13.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(218,216,218)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-14.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(200,161,142)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-15.jpg",
+              "width": 944,
+              "height": 720,
+              "avg": "rgb(200,177,135)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-16.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(70,47,34)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-17.jpg",
+              "width": 1074,
+              "height": 720,
+              "avg": "rgb(215,214,203)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-2.jpg",
+              "width": 800,
+              "height": 800,
+              "avg": "rgb(108,83,67)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-3.jpg",
+              "width": 667,
+              "height": 834,
+              "avg": "rgb(172,191,192)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-4.jpg",
+              "width": 1019,
+              "height": 1019,
+              "avg": "rgb(204,193,186)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-5.jpg",
+              "width": 1080,
+              "height": 1080,
+              "avg": "rgb(64,69,56)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-6.jpg",
+              "width": 1080,
+              "height": 1287,
+              "avg": "rgb(71,60,53)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-7.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(28,30,32)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-8.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(214,211,200)"
+            },
+            {
+              "src": "content/wedding/крутая свадьба/img-9.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(218,213,197)"
+            }
+          ],
+          "link": "/krutaya-svadba",
+          "desc": {
+            "title": "История любви в Горах",
+            "text": "Фотоистория нашего трёхдневного путешествия на всесезонный горный курорт «Архыз» Карачаево-Черкесской Республики. Это Юля и Влад. С ребятами я дружу уже давно. Так сложилось что мы отправились в горы, как раз на свадебную годовщину ребят. И я не мог оставить их без серии фото. Сошлись две стихии: любовь и горы. Свежий горный воздух, запах сосен — идеальная атмосфера для романтического уик-энда. Пусть love-story Вадика и Юли станет для вас вдохновением! Мы выбрали лаконичные и уютные образы, в которых было удобно в походе и которые при этом гармонично выглядели на фото. Нам очень повезло с погодой, суровые горы устроили идеальный солнечный день. Сначала сделали серию фото у «Американских» кемпинг-домиков на колёсах, а потом отправились в поход за недостающими кадрами и свежим сосновым воздухом."
+          }
+        },
+        {
+          "type": "album",
+          "name": "отметили так отметили",
+          "thumbnail": {
+            "src": "content/wedding/отметили так отметили/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/отметили так отметили/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-19.jpg",
+              "width": 1080,
+              "height": 1350,
+              "avg": "rgb(194,189,185)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-20.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(195,180,167)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-21.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(178,161,139)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-22.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(40,60,57)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-23.jpg",
+              "width": 1080,
+              "height": 665,
+              "avg": "rgb(211,209,185)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-24.jpg",
+              "width": 1080,
+              "height": 602,
+              "avg": "rgb(143,145,62)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-25.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(15,15,38)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-26.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(204,193,193)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-27.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(187,146,99)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-28.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(43,33,23)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-29.jpg",
+              "width": 800,
+              "height": 1000,
+              "avg": "rgb(25,25,25)"
+            },
+            {
+              "src": "content/wedding/отметили так отметили/img-30.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(220,220,220)"
+            }
+          ],
+          "link": "/otmetili-tak-otmetili",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "могло быть и лучше",
+          "thumbnail": {
+            "src": "content/wedding/могло быть и лучше/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/могло быть и лучше/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/moglo-byt-i-luchshe",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "wedding 8",
+          "thumbnail": {
+            "src": "content/wedding/wedding 8/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 8/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/wedding-8",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "wedding 9",
+          "thumbnail": {
+            "src": "content/wedding/wedding 9/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 9/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/wedding-9",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "wedding 10",
+          "thumbnail": {
+            "src": "content/wedding/wedding 10/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 10/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/wedding-10",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "wedding 11",
+          "thumbnail": {
+            "src": "content/wedding/wedding 11/img-1.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(63,71,64)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 11/img-1.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(63,71,64)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-10.jpg",
+              "width": 667,
+              "height": 834,
+              "avg": "rgb(161,132,103)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-11.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(200,194,192)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-12.jpg",
+              "width": 800,
+              "height": 1000,
+              "avg": "rgb(21,21,21)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-13.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(218,216,218)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-14.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(200,161,142)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-15.jpg",
+              "width": 944,
+              "height": 720,
+              "avg": "rgb(200,177,135)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-16.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(70,47,34)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-17.jpg",
+              "width": 1074,
+              "height": 720,
+              "avg": "rgb(215,214,203)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-2.jpg",
+              "width": 800,
+              "height": 800,
+              "avg": "rgb(108,83,67)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-3.jpg",
+              "width": 667,
+              "height": 834,
+              "avg": "rgb(172,191,192)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-4.jpg",
+              "width": 1019,
+              "height": 1019,
+              "avg": "rgb(204,193,186)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-5.jpg",
+              "width": 1080,
+              "height": 1080,
+              "avg": "rgb(64,69,56)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-6.jpg",
+              "width": 1080,
+              "height": 1287,
+              "avg": "rgb(71,60,53)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-7.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(28,30,32)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-8.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(214,211,200)"
+            },
+            {
+              "src": "content/wedding/wedding 11/img-9.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(218,213,197)"
+            }
+          ],
+          "link": "/wedding-11",
+          "desc": "this was cool wedding 1"
+        },
+        {
+          "type": "album",
+          "name": "wedding 12",
+          "thumbnail": {
+            "src": "content/wedding/wedding 12/img-1.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(63,71,64)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 12/img-1.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(63,71,64)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-10.jpg",
+              "width": 667,
+              "height": 834,
+              "avg": "rgb(161,132,103)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-11.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(200,194,192)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-12.jpg",
+              "width": 800,
+              "height": 1000,
+              "avg": "rgb(21,21,21)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-13.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(218,216,218)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-14.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(200,161,142)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-15.jpg",
+              "width": 944,
+              "height": 720,
+              "avg": "rgb(200,177,135)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-16.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(70,47,34)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-17.jpg",
+              "width": 1074,
+              "height": 720,
+              "avg": "rgb(215,214,203)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-2.jpg",
+              "width": 800,
+              "height": 800,
+              "avg": "rgb(108,83,67)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-3.jpg",
+              "width": 667,
+              "height": 834,
+              "avg": "rgb(172,191,192)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-4.jpg",
+              "width": 1019,
+              "height": 1019,
+              "avg": "rgb(204,193,186)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-5.jpg",
+              "width": 1080,
+              "height": 1080,
+              "avg": "rgb(64,69,56)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-6.jpg",
+              "width": 1080,
+              "height": 1287,
+              "avg": "rgb(71,60,53)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-7.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(28,30,32)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-8.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(214,211,200)"
+            },
+            {
+              "src": "content/wedding/wedding 12/img-9.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(218,213,197)"
+            }
+          ],
+          "link": "/wedding-12",
+          "desc": "this was cool wedding 1"
+        },
+        {
+          "type": "album",
+          "name": "wedding 13",
+          "thumbnail": {
+            "src": "content/wedding/wedding 13/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 13/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/wedding-13",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "wedding 14",
+          "thumbnail": {
+            "src": "content/wedding/wedding 14/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 14/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/wedding-14",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "wedding 15",
+          "thumbnail": {
+            "src": "content/wedding/wedding 15/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 15/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/wedding-15",
+          "desc": "this was cool wedding 2"
+        },
+        {
+          "type": "album",
+          "name": "wedding 16",
+          "thumbnail": {
+            "src": "content/wedding/wedding 16/img-18.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(205,157,101)"
+          },
+          "images": [
+            {
+              "src": "content/wedding/wedding 16/img-18.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(205,157,101)"
+            }
+          ],
+          "link": "/wedding-16",
+          "desc": "this was cool wedding 2"
+        }
+      ],
+      "homepage": true,
+      "inMenu": true,
+      "link": "/"
+    },
+    {
+      "type": "album-collection",
+      "name": "fashion",
+      "sidebar": {
+        "src": "content/covers/fashion.jpg",
+        "width": 1080,
+        "height": 720,
+        "avg": "rgb(205,157,101)"
+      },
+      "albums": [
+        {
+          "type": "album",
+          "name": "fashion 1",
+          "thumbnail": {
+            "src": "content/fashion/fashion 1/img-15.jpg",
+            "width": 944,
+            "height": 720,
+            "avg": "rgb(200,177,135)"
+          },
+          "images": [
+            {
+              "src": "content/fashion/fashion 1/img-15.jpg",
+              "width": 944,
+              "height": 720,
+              "avg": "rgb(200,177,135)"
+            },
+            {
+              "src": "content/fashion/fashion 1/img-16.jpg",
+              "width": 720,
+              "height": 900,
+              "avg": "rgb(70,47,34)"
+            },
+            {
+              "src": "content/fashion/fashion 1/img-17.jpg",
+              "width": 1074,
+              "height": 720,
+              "avg": "rgb(215,214,203)"
+            }
+          ],
+          "link": "/fashion-1",
+          "desc": ""
+        },
+        {
+          "type": "album",
+          "name": "fashion 2",
+          "thumbnail": {
+            "src": "content/fashion/fashion 2/img-25.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(15,15,38)"
+          },
+          "images": [
+            {
+              "src": "content/fashion/fashion 2/img-24.jpg",
+              "width": 1080,
+              "height": 602,
+              "avg": "rgb(143,145,62)"
+            },
+            {
+              "src": "content/fashion/fashion 2/img-25.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(15,15,38)"
+            },
+            {
+              "src": "content/fashion/fashion 2/img-26.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(204,193,193)"
+            }
+          ],
+          "link": "/fashion-2",
+          "desc": ""
+        },
+        {
+          "type": "album",
+          "name": "fashion 3",
+          "thumbnail": {
+            "src": "content/fashion/fashion 3/img-26.jpg",
+            "width": 1080,
+            "height": 720,
+            "avg": "rgb(204,193,193)"
+          },
+          "images": [
+            {
+              "src": "content/fashion/fashion 3/img-24.jpg",
+              "width": 1080,
+              "height": 602,
+              "avg": "rgb(143,145,62)"
+            },
+            {
+              "src": "content/fashion/fashion 3/img-25.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(15,15,38)"
+            },
+            {
+              "src": "content/fashion/fashion 3/img-26.jpg",
+              "width": 1080,
+              "height": 720,
+              "avg": "rgb(204,193,193)"
+            }
+          ],
+          "link": "/fashion-3",
+          "desc": ""
+        }
+      ],
+      "inMenu": true,
+      "link": "/fashion"
+    },
+    {
+      "type": "page-backstage",
+      "name": "Backstage",
+      "description": "Бэкстейдж моих фотосъемок",
+      "sidebar": {
+        "src": "content/covers/backstage.jpg",
+        "width": 720,
+        "height": 900,
+        "avg": "rgb(218,216,218)"
+      },
+      "videos": [
+        "Uvt5TZy0aAc",
+        "kHBcVlqpvZ8",
+        "3pHC9zyiDW4"
+      ],
+      "inMenu": true,
+      "link": "/backstage"
+    },
+    {
+      "type": "page-contacts",
+      "name": "Contacts",
+      "sidebar": {
+        "src": "content/covers/contacts.jpg",
+        "width": 1080,
+        "height": 720,
+        "avg": "rgb(200,194,192)"
+      },
+      "inMenu": true,
+      "link": "/contacts"
+    },
+    {
+      "type": "album",
+      "name": "art",
+      "inMenu": true,
+      "images": [
+        {
+          "src": "content/food/art/img-1.jpg",
+          "width": 846,
+          "height": 1057,
+          "avg": "rgb(46,42,21)"
+        },
+        {
+          "src": "content/food/art/img-10.jpg",
+          "width": 667,
+          "height": 834,
+          "avg": "rgb(22,17,17)"
+        },
+        {
+          "src": "content/food/art/img-11.jpg",
+          "width": 900,
+          "height": 1125,
+          "avg": "rgb(145,158,175)"
+        },
+        {
+          "src": "content/food/art/img-2.jpg",
+          "width": 1009,
+          "height": 800,
+          "avg": "rgb(25,14,17)"
+        },
+        {
+          "src": "content/food/art/img-3.jpg",
+          "width": 720,
+          "height": 900,
+          "avg": "rgb(157,151,145)"
+        },
+        {
+          "src": "content/food/art/img-4.jpg",
+          "width": 720,
+          "height": 900,
+          "avg": "rgb(228,215,207)"
+        },
+        {
+          "src": "content/food/art/img-5.jpg",
+          "width": 800,
+          "height": 1000,
+          "avg": "rgb(5,5,5)"
+        },
+        {
+          "src": "content/food/art/img-6.jpg",
+          "width": 1080,
+          "height": 720,
+          "avg": "rgb(186,176,161)"
+        },
+        {
+          "src": "content/food/art/img-7.jpg",
+          "width": 1080,
+          "height": 734,
+          "avg": "rgb(82,112,178)"
+        },
+        {
+          "src": "content/food/art/img-8.jpg",
+          "width": 1080,
+          "height": 720,
+          "avg": "rgb(230,217,208)"
+        },
+        {
+          "src": "content/food/art/img-9.jpg",
+          "width": 667,
+          "height": 793,
+          "avg": "rgb(223,202,190)"
+        }
+      ],
+      "thumbnail": {
+        "src": "content/food/art/img-1.jpg",
+        "width": 846,
+        "height": 1057,
+        "avg": "rgb(46,42,21)"
+      },
+      "link": "/art"
+    }
+  ],
+  "social": [
+    {
+      "site": "vk",
+      "link": "https://vk.com/shuntikov_foto"
+    },
+    {
+      "site": "telegram",
+      "link": "tg://resolve?domain=shuntikov"
+    },
+    {
+      "site": "facebook",
+      "link": "https://www.facebook.com/shuntikov/"
+    },
+    {
+      "site": "instagram",
+      "link": "https://www.instagram.com/shuntikov/"
+    }
+  ]
+}

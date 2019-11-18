@@ -1,0 +1,94 @@
+{
+  "theme": "theme-white",
+  "menu": [
+    {
+      "type": "page-price",
+      "name": "Price",
+      "sidebar": "content/covers/price.jpg",
+      "images": [
+        "content/covers/price.jpg",
+        "content/covers/price.jpg",
+        "content/covers/price.jpg",
+        "content/covers/price.jpg"
+      ],
+      "inMenu": true
+    },
+    {
+      "type": "album-collection",
+      "name": "wedding",
+      "sidebar": "content/covers/wedding.jpg",
+      "albums": [
+        "крутая свадьба",
+        "отметили так отметили",
+        "могло быть и лучше",
+        "лучше некуда",
+        "какое-то красивое название",
+        "свадьба",
+        "похоже на свадьбу",
+        "wedding 8",
+        "wedding 9",
+        "wedding 10",
+        "wedding 11",
+        "wedding 12",
+        "wedding 13",
+        "wedding 14",
+        "wedding 15",
+        "wedding 16"
+      ],
+      "homepage": true,
+      "inMenu": true
+    },
+    {
+      "type": "album-collection",
+      "name": "fashion",
+      "sidebar": "content/covers/fashion.jpg",
+      "albums": [
+        "fashion 1",
+        "fashion 2",
+        "fashion 3"
+      ],
+      "inMenu": true
+    },
+    {
+      "type": "page-backstage",
+      "name": "Backstage",
+      "description": "Бэкстейдж моих фотосъемок",
+      "sidebar": "content/covers/backstage.jpg",
+      "videos": [
+        "Uvt5TZy0aAc",
+        "kHBcVlqpvZ8",
+        "3pHC9zyiDW4"
+      ],
+      "inMenu": true
+    },
+    {
+      "type": "page-contacts",
+      "name": "Contacts",
+      "sidebar": "content/covers/contacts.jpg",
+      "inMenu": true
+    },
+    {
+      "type": "album",
+      "name": "art",
+      "inMenu": true
+    }
+  ],
+  "social": [
+    {
+      "site": "vk",
+      "link": "https://vk.com/shuntikov_foto"
+    },
+    {
+      "site": "telegram",
+      "link": "tg://resolve?domain=shuntikov"
+    },
+    {
+      "site": "facebook",
+      "link": "https://www.facebook.com/shuntikov/"
+    },
+    {
+      "site": "instagram",
+      "link": "https://www.instagram.com/shuntikov/"
+    }
+  ]
+}

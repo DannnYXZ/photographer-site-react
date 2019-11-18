@@ -1,0 +1,114 @@
+.item {
+    display: inline-block;
+    position: relative;
+    width: 33.33333%;
+    padding: 10px;
+    vertical-align: top
+}
+
+.album-link {
+    display: block;
+    position: relative;
+    text-decoration: none
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bolder;
+    line-height: 1.2;
+    text-transform: uppercase
+}
+
+.title span {
+    display: inline-block;
+    position: relative
+}
+
+.title {
+    position: absolute;
+    z-index: 20;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: calc(100% - 32px);
+    margin: 10px 16px;
+    color: #fff;
+    text-align: left
+}
+
+.lazy-image {
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    line-height: 0;
+}
+.lazy-image::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+    z-index: 10;
+    transition: background 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    background: transparent;
+}
+.lazy-image.-loaded > .placeholder {
+    opacity: 0;
+}
+
+.lazy-image > .placeholder {
+    z-index: 10 !important;
+    width: 100%;
+    transition: opacity 0.2s ease-out;
+    opacity: 0.5;
+    background-color: #111212;
+}
+
+.lazy-image.-loaded img {
+    opacity: 1;
+}
+
+.lazy-image > img[data-sizes="auto"] {
+    display: block;
+    width: 100%;
+}
+
+.lazy-image > img {
+    position: absolute;
+    z-index: 5 !important;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    transition: opacity 0.5s ease-out;
+    opacity: 0;
+}
+
+.item:hover .lazy-image::after {
+    background: rgba(0, 0, 0, 0.5)
+}
+
+canvas {
+    display: inline-block;
+}
+
+
+.lazyload {
+    opacity: 1;
+    background: #f7f7f7;
+}
+.lazyloaded {
+    opacity: 1;
+    transition: opacity 300ms;
+}
+.lazyloading {
+    opacity: 1;
+    transition: opacity 300ms;
+    background: #f7f7f7;
+}

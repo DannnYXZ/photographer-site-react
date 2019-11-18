@@ -1,0 +1,39 @@
+.section {
+}
+
+.contacts {
+    width: 1050px;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    color: #fff;
+    font-size: 18px;
+}
+
+.contacts-desc {
+    width: 35%;
+}
+
+.round-image {
+    width: 65%;
+}
+
+.person-img {
+    border-radius: 50%;
+    width: 100%;
+}
+
+@media (max-width: 1169px) {
+    .contacts {
+        flex-direction: column;
+    }
+
+    .person-image {
+        height: 100px;
+        width: 100%;
+    }
+
+    .round-image {
+        width: 100%;
+    }
+}

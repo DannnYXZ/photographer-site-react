@@ -1,0 +1,23 @@
+.response-item {
+    display: block;
+    background-color: white;
+    border-radius: 10px;
+    background: white;
+    color: #0f0f0f;
+    margin: 10px 0;
+    margin: 10px 0;
+    width: 90%;
+}
+
+.from {
+    padding: 5px 10px;
+    border-radius: 10px 10px 0 0;
+    background-color: yellowgreen;
+}
+
+.content {
+    padding: 10px;
+    text-wrap: normal;
+    word-wrap:break-word;
+    font-weight: normal;
+}

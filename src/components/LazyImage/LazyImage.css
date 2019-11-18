@@ -1,0 +1,32 @@
+.lazy-container {
+    //display: inline-block;
+}
+
+.lazy-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    transition: opacity 0.2s ease-out;
+    object-fit: cover;
+}
+
+.lazyload,
+.lazyloading {
+    opacity: 0;
+}
+
+.lazyloaded {
+    opacity: 1;
+}
+
+.lg-backdrop {
+    background-color: #454545!important;
+}
+
+.lg-thumb-outer {
+    background-color: unset!important;
+}
+
+.lg-thumb-item{
+    border: unset!important;
+}

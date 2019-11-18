@@ -1,0 +1,43 @@
+.album-cover {
+    position: relative;
+    display: inline-block;
+    width: calc(100% / 3);
+    padding-top: calc(100% / 3);
+}
+
+.cover-content {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+
+.cover-title {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 10px 16px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: left;
+}
+
+.cover-content:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: '';
+    transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    background: transparent;
+}
+
+.cover-content:hover:after {
+    background: rgba(0, 0, 0, 0.5);
+}

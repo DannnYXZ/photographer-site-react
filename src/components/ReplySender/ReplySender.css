@@ -1,0 +1,27 @@
+form {
+    display: flex;
+}
+
+.reply-senser {
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    width: 80%;
+    min-height: 100px;
+}
+
+.message:focus {
+    outline: none;
+}
+
+.btn-send {
+    background-color: yellowgreen;
+    border-style: none;
+    font-weight: bold;
+}
+
+.btn-send:focus {
+    outline: none;
+}

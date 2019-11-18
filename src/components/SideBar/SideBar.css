@@ -1,0 +1,28 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 20%;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.sidebar-background {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: auto 100%;
+}
+
+.sidebar-social {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+}

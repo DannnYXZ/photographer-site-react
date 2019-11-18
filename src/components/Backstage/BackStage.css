@@ -1,0 +1,17 @@
+.backstage {
+    text-align: center;
+    color: #fff;
+}
+
+.yt-holder {
+    position: relative;
+    padding-top: 56.25%;
+}
+
+.yt-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}

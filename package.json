@@ -1,0 +1,54 @@
+{
+  "name": "wfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "canvas": "^2.5.0",
+    "color-thief": "~2.2.5",
+    "fast-average-color": "^5.2.0",
+    "gh-pages": "^2.0.1",
+    "image-size": "^0.7.4",
+    "lazysizes": "^5.1.1",
+    "lightgallery.js": "^1.1.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-graceful-image": "^1.2.9",
+    "react-lazy-load-image-component": "^1.3.2",
+    "react-lazyload": "^2.6.2",
+    "react-lightgallery": "^0.5.1",
+    "react-photo-gallery": "^8.0.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-simple-img": "^2.3.3",
+    "transliteration": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "https://dannnyxz.github.io/photographer-site-react"
+}

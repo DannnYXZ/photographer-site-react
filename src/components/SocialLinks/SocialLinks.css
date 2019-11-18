@@ -1,0 +1,9 @@
+.social-links {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.social-item {
+    display: inline-block;
+    margin: 0 0.5em;
+}
